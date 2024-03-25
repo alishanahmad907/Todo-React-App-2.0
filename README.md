@@ -1,7 +1,6 @@
 # Todo List App
 
-This is a simple Todo List application built using React.
-You can try the live demo [here](https://todo-react-appv2.netlify.app/).
+This is a simple Todo List application built using React. [🔗](https://todo-react-appv2.netlify.app/).
 
 ## Features
 
